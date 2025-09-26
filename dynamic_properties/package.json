@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "scripts": {
     "start": "npx tsc && node main.js"
   },
