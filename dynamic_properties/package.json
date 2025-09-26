@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "npx tsc && node main.js"
+  },
+  "dependencies": {
+    "typescript": "^5.9.2"
+  }
+}
